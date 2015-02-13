@@ -1,0 +1,42 @@
+body{
+
+	text-align: center;
+	background: url("SUNSET.jpg");
+	background-size: cover;
+	height: 100px;
+	color: yellow;
+
+
+}
+img{
+	width: 200px;
+	height: 200px;
+	border: 1px solid;
+	border-radius: 100px;
+	
+}
+
+p{
+	margin: 90px 0px 0px 0px;
+	font-size: 1.2em;
+	padding: -10px;
+}
+
+.look{
+	margin: 10px 0px 0px 0px;
+	font-size: 1.2em;
+	padding: -10px;
+}
+
+input{
+	border:0;
+	padding: 5px;
+	font-size: 0.9em;	
+}
+
+
+.bu{
+	border-radius: 50px;
+	background-color: red;
+	color: white;
+}
